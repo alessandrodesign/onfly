@@ -1,4 +1,7 @@
 composer.phar
 composer.lock
+/.idea/
 /vendor/
-/**/*/.env
+/.dockerfiles/database/
+/www/backend/node_modules/
+/www/frontend/node_modules/
