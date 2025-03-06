@@ -3,5 +3,6 @@ composer.lock
 /.idea/
 /vendor/
 /.dockerfiles/database/
+/.dockerfiles/rabbitmq/
 /www/backend/node_modules/
 /www/frontend/node_modules/
